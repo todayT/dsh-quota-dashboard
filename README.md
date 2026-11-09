@@ -44,10 +44,6 @@ WorkBuddy 与 ChatGPT 的网页接口都不是公开稳定 API，平台变更或
 node --test test/*.test.js
 ```
 
-## 隐私
-
-本仓库不包含任何账号、Cookie、Token、密钥或本机路径。请勿把 `accounts.json`、`.credentials.yaml`、`.env` 或浏览器配置提交到版本库。
-
 ## 许可
 
 MIT
