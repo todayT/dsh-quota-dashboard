@@ -1,6 +1,6 @@
 {
     "name":  "dsh-quota-dashboard",
-    "version":  "0.2.10",
+    "version":  "0.2.11",
     "description":  "WorkBuddy, DeepSeek and Codex multi-account quota dashboard for DSH",
     "type":  "module",
     "main":  "lib/index.js",
