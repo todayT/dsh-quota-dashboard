@@ -1,0 +1,3 @@
+- insert:
+    - id: quota-dashboard
+      name: dsh-quota-dashboard

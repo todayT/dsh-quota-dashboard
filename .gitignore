@@ -1,0 +1,13 @@
+# Local credentials and account data
+accounts.json
+usage-cache.json
+.credentials.yaml
+.env
+.env.*
+
+# Local development and package-manager output
+node_modules/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
